@@ -1,0 +1,27 @@
+_repo: Phil-Bradley-s-Mountain-BoysThe-Birch-Bark-Lodge_22279
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Boone, Silas K.
+    gutenberg_agent_id: '25229'
+    url: http://www.gutenberg.org/2009/agents/25229
+description: ''
+gutenberg_issued: '2007-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22279'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Adirondack Mountains (N.Y.) -- Juvenile fiction'
+- !lcc 'PZ'
+title: 'Phil Bradley''s Mountain Boys
+
+  The Birch Bark Lodge'
+url: http://www.gutenberg.org/ebooks/22279
